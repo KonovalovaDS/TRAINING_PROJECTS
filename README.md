@@ -10,3 +10,7 @@
 
 [2. Exploratory Data Analysis](https://github.com/KonovalovaDS/SKILLFACTORY/tree/master/2_ExploratoryDataAnalysis)
 
+[3. A/B testing and tracking Experiment via CometML](https://github.com/KonovalovaDS/SKILLFACTORY/tree/master/3_ABTesting&Experiment)
+
+[4. EDA and Feature Engineering](https://github.com/KonovalovaDS/SKILLFACTORY/tree/master/4_FeatureEngineering)
+
