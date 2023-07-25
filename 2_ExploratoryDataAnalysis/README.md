@@ -2,7 +2,7 @@
 
 ## <center> Analysis of open positions on website headhunter.ru </center>
 
-<center> <img src = https://dubna.msr.mosreg.ru/files/image/08/83/23/lg!btx.jpg> </center>
+<center> <img src = https://play-lh.googleusercontent.com/s6JiMSUktkTX0ejwpJ-DgqVb03dE00O975GGOoMmrlVL1aI8A1yOy7xh3dOSaxpuFWJH></center>
 
 ## Content
 
