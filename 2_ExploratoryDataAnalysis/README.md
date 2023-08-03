@@ -1,8 +1,8 @@
-# <center> Exploratory Data Analysis </center>
+# <p align="center"> Exploratory Data Analysis </p>
 
-## <center> Analysis of open positions on website headhunter.ru </center>
+## <p align="center"> Analysis of open positions on website headhunter.ru </p>
 
-<center> <img src = https://play-lh.googleusercontent.com/s6JiMSUktkTX0ejwpJ-DgqVb03dE00O975GGOoMmrlVL1aI8A1yOy7xh3dOSaxpuFWJH></center>
+<p align="center"> <img src = https://play-lh.googleusercontent.com/s6JiMSUktkTX0ejwpJ-DgqVb03dE00O975GGOoMmrlVL1aI8A1yOy7xh3dOSaxpuFWJH></p>
 
 ## Content
 

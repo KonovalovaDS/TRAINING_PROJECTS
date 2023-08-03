@@ -1,8 +1,8 @@
-# <center> A / B Testing Results Analysis</center>
-# <center> & </center>
-# <center> Logging Experiment in Comet ML 
+# <p align="center"> A / B Testing Results Analysis</p>
+# <p align="center"> & </p>
+# <p align="center"> Logging Experiment in Comet ML</p> 
 
-<center><img src = https://www.invespcro.com/blog/images/blog-images/ab-testing-1.jpg></center>
+<p align="center"><img src = https://www.invespcro.com/blog/images/blog-images/ab-testing-1.jpg></p>
 
 ## Content
 

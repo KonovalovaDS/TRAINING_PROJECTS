@@ -1,7 +1,7 @@
-# <center> Feature Engineering </center>
-<center><img src = https://ml40sfg0bc2m.i.optimole.com/w:362/h:203/q:mauto/dpr:2.6/f:avif/https://lostontheroute.com/wp-content/uploads/2023/02/consigli-utili-per-risparmiare-prenotando-su-booking-com.webp></center>
+# <p align="center"> Feature Engineering </p>
+<p align="center"><img src = https://ml40sfg0bc2m.i.optimole.com/w:362/h:203/q:mauto/dpr:2.6/f:avif/https://lostontheroute.com/wp-content/uploads/2023/02/consigli-utili-per-risparmiare-prenotando-su-booking-com.webp></p>
 
-### <center> ML-model: RandomForestRegressor </center>
+### <p align="center"> ML-model: RandomForestRegressor </p>
 
 ### Content
 [1. Project description](README.md#project-description)
@@ -13,7 +13,7 @@
 [4. Credits and Contacts](README.md#credits-and-contacts)
 
 
-## <center> Project description </center>
+## <p align="center"> Project description </p>
 
 The company "Booking.com" is facing the problem - dishonest hotels that wind up their rating. One way to discover such hotels is to create a ML-model that predicts the rating of the specific hotel. If the prediction of the model is very different from the actual result, then the hotel might behave dishnestly and is worth to be checked.
 
@@ -23,7 +23,7 @@ To assess the quality of the ML-model, MAPE (mean absolute percentage error) has
 
 [To the top](README.md#content)
 
-## <center> Dataset </center>
+## <p align="center"> Dataset </p>
 
 Dataset discription can be reviewed on Kaggle: https://www.kaggle.com/competitions/sf-booking/data
 
@@ -38,7 +38,7 @@ hotels = pd.read_csv(path, compression = 'zip')
 
 [To the top](README.md#content)
 
-## <center> Technologies </center>
+## <p align="center"> Technologies </p>
 
 The following special libraries and tools have ben used:
 
@@ -50,7 +50,7 @@ The following special libraries and tools have ben used:
 
 [To the top](README.md#content)
 
-## <center> Credits and Contacts </center>
+## <p align="center"> Credits and Contacts </p>
 
 Credits to SkillFactory team of mentors and coordinators. Special appreciation to Sergey Dobdin.
 

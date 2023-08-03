@@ -1,6 +1,6 @@
-# <center> Plotly Visualization </center>
+# <p align="center"> Plotly Visualization </p>
 
-<center> <img src = https://i.ytimg.com/vi/j0wvKWb337A/maxresdefault.jpg> </center>
+<p align="center"><img src = https://i.ytimg.com/vi/j0wvKWb337A/maxresdefault.jpg></p>
 
 ## Content
 
