@@ -16,3 +16,4 @@
 
 [5. Classification](https://github.com/KonovalovaDS/SKILLFACTORY/tree/master/5_Classification)
 
+[6. Encoders from Sklearn Library](https://github.com/KonovalovaDS/SKILLFACTORY/tree/master/6_)
