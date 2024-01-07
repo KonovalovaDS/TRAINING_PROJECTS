@@ -17,3 +17,5 @@
 [5. Classification](https://github.com/KonovalovaDS/SKILLFACTORY/tree/master/5_Classification)
 
 [6. Encoders from Sklearn Library](https://github.com/KonovalovaDS/SKILLFACTORY/tree/master/6_Encoders_SKLEARN)
+
+[7. Hyperparameters: Various methods to tune](https://github.com/KonovalovaDS/SKILLFACTORY/tree/master/7_Hyperparameters)
