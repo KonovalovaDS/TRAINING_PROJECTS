@@ -97,7 +97,7 @@ The remaining columns D1-D1776 are molecular descriptors, which are computed pro
 
 **Logistic Regression** with build in **cross validation** on the initial run of the model showed F1 score 0.8368. With Optuna hyperparameters search showed F1 metric as 0.9779, but timing was 4 hours 15 min
 
-[To the top](README.md#conclusion)
+[To the top](README.md#content)
 
 ## Contacts
 
@@ -107,4 +107,4 @@ The remaining columns D1-D1776 are molecular descriptors, which are computed pro
 
 *<p align="center">[LinkedIn](https://www.linkedin.com/in/natalia-ds-198612241)</p>*
 
-[To the top](README.md#contacts)
+[To the top](README.md#content)
