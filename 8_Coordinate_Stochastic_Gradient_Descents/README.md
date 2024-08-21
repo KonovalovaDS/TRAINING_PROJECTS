@@ -1,6 +1,6 @@
 # <p align="center"> Coordinate and Stochastic Gradient Descent
 
-<p align="center"><img src = https://dtmvamahs40ux.cloudfront.net/gl-academy/course/course-1281-Non-convex-optimization-We-utilize-stochastic-gradient-descent-to-find-a-local-optimum.jpg></p>
+<p align="center"><img src = https://media.licdn.com/dms/image/C4E12AQH3iMnTKdlY2w/article-cover_image-shrink_600_2000/0/1520084431906?e=2147483647&v=beta&t=KN5DSqZooCMdYawYOwYd28GpIQC50jE5-xHGjsb_b4w></p>
 
 ## <p align="center"> Comparison of two algorithms
 
