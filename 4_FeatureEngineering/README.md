@@ -1,5 +1,5 @@
 # <p align="center"> Feature Engineering </p>
-<p align="center"><img src = https://ml40sfg0bc2m.i.optimole.com/w:362/h:203/q:mauto/dpr:2.6/f:avif/https://lostontheroute.com/wp-content/uploads/2023/02/consigli-utili-per-risparmiare-prenotando-su-booking-com.webp></p>
+<p align="center"><img src = https://daxg39y63pxwu.cloudfront.net/images/blog/8-feature-engineering-techniques-for-machine-learning/Feature_Engineering_in_ML.webp></p>
 
 ### <p align="center"> ML-model: RandomForestRegressor </p>
 
