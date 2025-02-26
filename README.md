@@ -22,3 +22,7 @@
 [8. Coordinate and Stochastic Gradient Descents](https://github.com/KonovalovaDS/TRAINING_PROJECTS/tree/master/8_Coordinate_Stochastic_Gradient_Descents)
 
 [9. Linear Algebra in context of Linear Models](https://github.com/KonovalovaDS/TRAINING_PROJECTS/tree/master/9_Linear_Algebra)
+
+[10. RFM Segmentation and Analysis for E-Commerce enterprise](https://github.com/KonovalovaDS/TRAINING_PROJECTS/tree/master/10_RFM_Segmentation)
+
+[11. Naive Bayes Classifier](https://github.com/KonovalovaDS/TRAINING_PROJECTS/tree/master/11_NaiveBayesClassifier)
